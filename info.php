@@ -8,7 +8,7 @@
     // experimenter's OSF security token for this project
     'token' => '',
     // name of resource directory for this project on OSF server
-    'osfResourceDirectory' => '/resources',
+    'osfResourceDirectory' => 'resources',
 
     // name of the directory containing the experiment's resources,
     // both on the local experiment server and on the remote OSF server
