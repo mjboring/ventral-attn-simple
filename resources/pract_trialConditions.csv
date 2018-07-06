@@ -1,0 +1,5 @@
+trial_no,corrAns,up,down,left,right,up_ex,down_ex,left_ex,right_ex,cue_ex,target
+1,up,1,2,3,4,1,1,1,1,1,1
+1,space,2,3,4,5,2,2,2,1,2,1
+2,right,2,3,4,1,1,1,1,1,1,1
+2,space,3,2,5,4,2,2,1,2,2,1
